@@ -19,7 +19,7 @@ How the software works:
 
 ![image](https://github.com/LuizSSenko/VS_Files_Together/assets/140913035/3213fdfe-8646-4065-ae5c-5c5c18306cae)
 
-- Matplotlib with plots and tools for edit the plots
+- Matplotlib with plots and tools.
 
 ![image](https://github.com/LuizSSenko/VS_Files_Together/assets/140913035/48c78066-bc6b-4a30-ac3e-50cded4fb2d1)
 
